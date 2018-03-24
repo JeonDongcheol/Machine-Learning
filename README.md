@@ -1,5 +1,6 @@
 ## Machine Learning
 > Machine Learning에 대한 개념을 다지고 각 알고리즘에 대한 개념과 튜토리얼을 Tensorflow를 통해서 학습할 수 있는 페이지이다.
+> 모든 Source File은 Tensorflow_project Directory 안에 있습니다.
 
 ### Index :
 1. [_Machine Learning_ 개념 다지기](1.MachineLearning_basic.md)
